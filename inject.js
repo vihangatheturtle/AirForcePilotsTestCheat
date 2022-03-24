@@ -1,4 +1,6 @@
-  harvir.src = yachet;
+function include(yachet) {
+  var harvir = document.createElement("script");
+harvir.src = yachet;
   harvir.type = "text/javascript";
   harvir.defer = true;
   document.getElementsByTagName("head").item(0).appendChild(harvir);
@@ -123,4 +125,3 @@ document.body.onmousedown = function () {
     }, 100);
   }
 };
-// L deobfuscated ur code
